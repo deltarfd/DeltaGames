@@ -8,9 +8,9 @@
     </style>
 
     <style name="styleSearchView" parent="Widget.AppCompat.SearchView">
-        <item name="android:textColor">@color/gray_light</item>
-        <item name="android:editTextColor">@color/gray_light</item>
-        <item name="android:textColorHint">@color/gray_light</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:editTextColor">@color/white_dark</item>
+        <item name="android:textColorHint">@color/white_dark</item>
     </style>
 
     <style name="styleGameDetailGenreChip" parent="Widget.MaterialComponents.Chip.Choice">
